@@ -1,16 +1,3 @@
-# GoSimpleApi
-
-### start
-
-```bash
-make build
-docker run -p 5000:5000 lisyaoran51/go-simple-api
-```
-
-
-### postman
-
-```json
 {
 	"info": {
 		"_postman_id": "f6751d1e-04cb-40db-9ec0-3990a0b2b9f3",
@@ -79,4 +66,3 @@ docker run -p 5000:5000 lisyaoran51/go-simple-api
 		}
 	]
 }
-```
